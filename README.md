@@ -1,1 +1,2 @@
-Test comment in first file
+This is the text in the patch branch
+
